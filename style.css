@@ -1,0 +1,11 @@
+.img-dimen{
+    height: 280px;
+    width: 415px;
+}
+
+@media(max-width: 785px){
+    .img-dimen{
+        height: 180px;
+        width: 295px;
+    }
+}
